@@ -4,7 +4,7 @@ node_js:
 deploy:
   provider: heroku
   api_key:
-    secure: cc4f5d1a-5d5e-4d91-877b-2ae828861a1b
+    secure: c1d9ae12-c279-4597-98e4-ad2722c45a05
   app: still-scrubland-5274
   on:
     repo: danielfs/node-app
