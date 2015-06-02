@@ -1,7 +1,6 @@
 module.exports = function() {
 	var Controller = {
 		utils: {
-			//var a;
 			formatarResposta: function(resultado) {
 				var accounting = require('accounting');
 				var resposta   = {
